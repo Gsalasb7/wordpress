@@ -5,7 +5,7 @@
         "This file is @generated automatically"
     ],
     "require": {
-  "symfony/dependency-injection": "3.4.26"
+  "symfony/dependency-injection": "4.2.7"
 },
     "content-hash": "59e3073594324f3dd58aaa655c696b77",
     "packages": [
