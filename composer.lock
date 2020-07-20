@@ -4,6 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+    "require": {
+  "symfony/dependency-injection": "3.4.26"
+},
     "content-hash": "59e3073594324f3dd58aaa655c696b77",
     "packages": [
         {
